@@ -1,4 +1,3 @@
-```yaml
 version: 2.0
 jobs:
   build:
@@ -10,4 +9,3 @@ jobs:
           command: |
             echo 'Hello World!'
             echo 'This is the delivery pipeline'
-```
